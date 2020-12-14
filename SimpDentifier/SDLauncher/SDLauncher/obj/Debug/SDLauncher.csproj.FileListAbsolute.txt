@@ -1,0 +1,14 @@
+C:\Users\Chandler.Boots_PC\source\repos\SDLauncher\SDLauncher\bin\Debug\SDLauncher.exe.config
+C:\Users\Chandler.Boots_PC\source\repos\SDLauncher\SDLauncher\bin\Debug\SDLauncher.exe
+C:\Users\Chandler.Boots_PC\source\repos\SDLauncher\SDLauncher\bin\Debug\SDLauncher.pdb
+C:\Users\Chandler.Boots_PC\source\repos\SDLauncher\SDLauncher\obj\Debug\SDLauncher.csprojAssemblyReference.cache
+C:\Users\Chandler.Boots_PC\source\repos\SDLauncher\SDLauncher\obj\Debug\SDLauncher.csproj.CoreCompileInputs.cache
+C:\Users\Chandler.Boots_PC\source\repos\SDLauncher\SDLauncher\obj\Debug\SDLauncher.exe
+C:\Users\Chandler.Boots_PC\source\repos\SDLauncher\SDLauncher\obj\Debug\SDLauncher.pdb
+C:\Users\Chandler.Boots_PC\Desktop\SimpDentifier\SDLauncher\SDLauncher\bin\Debug\SDLauncher.exe.config
+C:\Users\Chandler.Boots_PC\Desktop\SimpDentifier\SDLauncher\SDLauncher\bin\Debug\SDLauncher.exe
+C:\Users\Chandler.Boots_PC\Desktop\SimpDentifier\SDLauncher\SDLauncher\bin\Debug\SDLauncher.pdb
+C:\Users\Chandler.Boots_PC\Desktop\SimpDentifier\SDLauncher\SDLauncher\obj\Debug\SDLauncher.csprojAssemblyReference.cache
+C:\Users\Chandler.Boots_PC\Desktop\SimpDentifier\SDLauncher\SDLauncher\obj\Debug\SDLauncher.csproj.CoreCompileInputs.cache
+C:\Users\Chandler.Boots_PC\Desktop\SimpDentifier\SDLauncher\SDLauncher\obj\Debug\SDLauncher.exe
+C:\Users\Chandler.Boots_PC\Desktop\SimpDentifier\SDLauncher\SDLauncher\obj\Debug\SDLauncher.pdb

@@ -1,0 +1,5 @@
+﻿1>------ Build started: Project: SimpDentifier 1.2, Configuration: Debug Any CPU ------
+1>C:\Users\Chandler.Boots_PC\source\repos\SimpDentiier 1.2\SimpDentiier 1.2\Program.cs(18,20,18,21): warning CS0168: The variable 'n' is declared but never used
+1>SimpDentifier 1.2 -> C:\Users\Chandler.Boots_PC\source\repos\SimpDentiier 1.2\SimpDentiier 1.2\bin\Debug\netcoreapp3.1\SimpDentifier 1.2.dll
+1>Done building project "SimpDentifier 1.2.csproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

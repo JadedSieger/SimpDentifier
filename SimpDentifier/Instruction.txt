@@ -1,0 +1,10 @@
+Instructions:
+
+There are already shortcuts for the programs here. But if you wish to run the app directly, 
+please navigate to SDLauncher\SDLauncher\bin and run the program.
+You can also go to SimpDentifier 1.2\SimpDentifier 1.2\bin\Debug\
+and run SimpDentifier 1.2.exe.
+
+for feedback on how to improve the app please Email me at simpforsabrina@gmail.com.
+
+Have an amazing Day!

@@ -10,16 +10,28 @@ namespace SimpDentifier_1._2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello! Thank you for taking the SimpDentifier Test!");
-            Console.ReadLine();
-            Console.WriteLine("Patch Notes for 1.2.4.1\n Changed Algorithm for computaion of Sipmness percentage.\n Changed the system for answering the questions.\n Development is back on track.");
+            //Machine Name
+            Console.WriteLine("This is used for identifying your system, We do not collect info.");
+            Console.WriteLine( "MachineName: {0}", Environment.MachineName);
+
+            //Initiation
+            Console.Write("Current Date And Time is: ");
+            DateTime now = DateTime.Now;
+            Console.WriteLine(now);
             Console.ReadLine();
 
+          
+            //INtroduction
+
+            Console.WriteLine("Hello! Thank you for taking the SimpDentifier Test!");
+            Console.ReadLine();
+            Console.WriteLine("Patch Notes for 1.2.4.1\n -Changed Algorithm for computaion of Sipmness percentage.\n -Changed the system for answering the questions.\n -Development is back on track.\n -Logo");
+            Console.ReadLine();
             Console.WriteLine("Rules: \n0 means not at all and 10 means aboslutely.\nThe test is based in ranging and 5 is the middle point");
             Console.WriteLine("Press Enter to continue");
             Console.ReadLine();
 
-
+            //Algorithm
 
             int r, q1, q2, q3, q4, q5, q6, q7, q8, q9, q10, t;
             float p;
@@ -88,14 +100,15 @@ namespace SimpDentifier_1._2
             {
 
             }
-                if (p >= 80 && p <= 100)
-                {
-                    Console.WriteLine("Simp");
-                }
-                else
-                {
+            if (p >= 80 && p <= 100)
+            {
+                Console.WriteLine("Ultra Simp");
+            }
+            else
+            {
 
-                }
+            }
+            //End Process
                 Console.WriteLine("I hope you had fun using this.\n");
                 Console.ReadLine();
                 Console.WriteLine("Thank You For Taking the SimpDentifier Test");
